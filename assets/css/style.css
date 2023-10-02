@@ -1,0 +1,56 @@
+* {
+    padding: 0%;
+    border: 0%;
+}
+/* Barra de navegacion*/
+.nav-item a {
+    color:white;
+    font-size: 25px;
+
+    /* Header*/
+}
+.header {
+    height: 60em;
+    width: 100%;
+    background-image: url(../imag/mejor\ calidad.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top: 1%;
+
+}
+    /* experiencia*/
+
+.experiencia p {
+    color: black;
+font-size: 20px;
+font-weight: 600;
+font-style: italic;
+}
+.experiencia h5 {
+    color: black;
+    font-weight: 400;
+    }
+/* Contacto*/
+.contacto p{
+    padding: 1%;
+    text-transform: uppercase;
+}
+.iconos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+
+}
+.icono {
+    text-align: center;
+    justify-content: space-around;
+    margin-left: 5%;
+
+}
+.derechos-reservados {
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
